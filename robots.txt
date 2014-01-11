@@ -1,0 +1,3 @@
+Sitemap: http://libtrading.org/sitemap.xml
+
+User-agent: *
